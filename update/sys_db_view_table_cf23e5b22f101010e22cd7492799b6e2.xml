@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_view_table">
+    <sys_db_view_table action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <left_join>false</left_join>
+        <order>100</order>
+        <sys_class_name>sys_db_view_table</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-24 13:42:41</sys_created_on>
+        <sys_id>cf23e5b22f101010e22cd7492799b6e2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit_needit</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_db_view_table_cf23e5b22f101010e22cd7492799b6e2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-24 13:42:41</sys_updated_on>
+        <table>x_58872_needit_needit</table>
+        <variable_prefix>need</variable_prefix>
+        <view display_value="x_58872_needit_raulisbuidingaview">45c2e1b22f101010e22cd7492799b613</view>
+        <where_clause/>
+    </sys_db_view_table>
+</record_update>
